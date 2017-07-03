@@ -1,0 +1,6 @@
+python manage.py runserver
+
+A model in Django is a special kind of object – it is saved in the  database.
+
+python manage.py makemigrations blog 
+python manage.py migrate blog
